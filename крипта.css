@@ -1,0 +1,56 @@
+body {
+  background-color:white;
+}
+.foto {
+  text-align:center;
+  margin: 0 auto;
+  justify-content:center;
+   border-radius: 80%; 
+width: 300px; 
+height: 300px; 
+ }
+
+ .omlet{
+  text-align:center;
+  margin: 0 auto;
+  justify-content:center;
+  border-radius: 80%; 
+width: 300px; 
+height: 300px;; 
+}
+
+.lait{
+  text-align:center;
+  margin: 0 auto;
+  justify-content:center;
+  border-radius: 80%; 
+width: 300px;
+height: 300px; 
+}
+.footbol{
+  text-align:center;
+  margin: 0 auto;
+  justify-content:center;
+  border-radius: 80%; 
+width: 300px; 
+height: 300px; 
+}
+.plov{
+  text-align:center;
+  margin: 0 auto;
+  justify-content:center;
+  border-radius: 80%; 
+width: 300px; 
+height: 300px; 
+}
+.cont{
+  text-align: center;
+  border:1px solid;
+ 
+}
+h2{
+  text-align:center;
+}
+.text1{
+  text-align:center;
+}
